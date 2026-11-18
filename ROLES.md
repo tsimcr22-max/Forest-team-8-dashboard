@@ -41,6 +41,7 @@ One row per person. The same role may appear on more than one row.
 | Micaela Creo | mica-creo | Design Lead (and assistant to strategist) |
 | Karis Avant | avank26-source | Spec Lead |
 | Chris Tsimbinos | tsimcr22-max | Delivery Lead, Data Lead |
+| D'Marley Grant | marleygrant | Design Lead |
 
 ## Side quests
 
