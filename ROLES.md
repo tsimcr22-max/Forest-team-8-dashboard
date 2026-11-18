@@ -38,6 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Andrew Nguyen | nguyenand18 | Data Lead, Pitch Lead |
+| Micaela Creo | mica-creo | Artist and assistant to Strategist |
 
 ## Side quests
 
