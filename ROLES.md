@@ -38,7 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Andrew Nguyen | nguyenand18 | Data Lead, Pitch Lead |
-| Micaela Creo | mica-creo | Artist and assistant to Strategist |
+| Micaela Creo | mica-creo | Design Lead (and assistant to strategist) |
 | Karis Avant | avank26-source | Strategist - Spec Lead |
 | Chris Tsimbinos | tsimcr22-max | Delivery Lead, Data Lead |
 
