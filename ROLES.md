@@ -37,7 +37,7 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-| | | |
+| Andrew Nguyen | | Data Lead, Pitch Lead |
 
 ## Side quests
 
