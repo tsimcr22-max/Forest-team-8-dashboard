@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Stakeholder | <name and role, from the brief> |
-| Database | `<database name>` on the course server |
+| Database | `streetfare` on the course server |
 | Spec | `spec.md` (the source of truth for what to build) |
 | Design | `design.md` (each screen as drawn, and the style rules) |
 | Plan | `ROADMAP.md` for phases; GitHub Issues for tasks |
